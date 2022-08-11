@@ -1,0 +1,3 @@
+[submodule "Chal-Chal-Server"]
+	path = Chal-Chal-Server
+	url = https://github.com/team-devOops/Chal-Chal-Server.git
